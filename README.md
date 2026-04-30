@@ -1,6 +1,20 @@
 # Bilge'nin Yapay Zekâ Atölyesi  
 ## Çocuklar İçin Etkileşimli Yapay Zekâ Öğrenme Portalı
 
+<p align="center">
+  <img 
+    src="https://github.com/ayhanbzkrt/bilgeninyzatolyesi/blob/main/Ekran%20Resmi%202026-04-30%2016.17.21.png?raw=true" 
+    alt="Bilge'nin Yapay Zekâ Atölyesi ekran görüntüsü" 
+    width="900"
+  />
+</p>
+
+<p align="center">
+  <strong>Çocuklar için deneyerek, oynayarak ve keşfederek Yapay Zekâ öğrenme portalı</strong>
+</p>
+
+---
+
 **Bilge'nin Yapay Zekâ Atölyesi**, çocukların yapay zekâ kavramlarını deneyerek, oynayarak ve keşfederek öğrenmeleri için hazırlanmış etkileşimli bir eğitim portalıdır. Portal; veri, algoritma, bilgisayarların öğrenmesi, karar verme, görsel tanıma, ses tanıma, güvenli yapay zekâ kullanımı ve dijital okuryazarlık gibi temel konuları çocuk dostu bir anlatımla sunar.
 
 Bu proje, **AI'Han Academy** tarafından geliştirilen eğitsel, etkileşimli ve tarayıcı tabanlı bir öğrenme deneyimidir.
